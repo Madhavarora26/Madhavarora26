@@ -48,7 +48,7 @@
       <br/><br/>
       <b>Stack:</b> React (Vite), Node.js, Express, MongoDB, Bootstrap 5
       <br/>
-      <a href="#">🔗 Live Demo</a> · <a href="https://github.com/Madhavarora26/ticket-management-system.git">📂 Repo</a>
+      <a href="https://github.com/Madhavarora26/ticket-management-system.git">📂 Repo</a>
     </td>
     <td width="50%">
       <h4>⛓️ Land Blockchain Registry</h4>
@@ -56,7 +56,7 @@
       <br/><br/>
       <b>Stack:</b> Solidity, Hardhat, ethers.js, Node.js, MongoDB
       <br/>
-      <a href="#">🔗 Live Demo</a> · <a href="https://github.com/Madhavarora26/land-blockchain-registry.git">📂 Repo</a>
+      <a href="https://github.com/Madhavarora26/land-blockchain-registry.git">📂 Repo</a>
     </td>
   </tr>
   <tr>
