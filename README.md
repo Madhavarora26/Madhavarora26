@@ -58,7 +58,7 @@
       <br/><br/>
       <b>Stack:</b> React (Vite), Node.js, Express, MongoDB, Bootstrap 5
       <br/>
-      <a href="#">🔗 Live Demo</a> · <a href="#">📂 Repo</a>
+      <a href="#">🔗 Live Demo</a> · <a href="https://github.com/Madhavarora26/ticket-management-system.git">📂 Repo</a>
     </td>
     <td width="50%">
       <h4>⛓️ Land Blockchain Registry</h4>
