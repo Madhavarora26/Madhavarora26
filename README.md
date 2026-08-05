@@ -85,7 +85,6 @@
 
 ### 📈 GitHub Stats
 
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Madhavarora26&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Madhavarora26&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
 
 ---
 
