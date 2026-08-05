@@ -66,7 +66,7 @@
       <br/><br/>
       <b>Stack:</b> Solidity, Hardhat, ethers.js, Node.js, MongoDB
       <br/>
-      <a href="#">🔗 Live Demo</a> · <a href="#">📂 Repo</a>
+      <a href="#">🔗 Live Demo</a> · <a href="https://github.com/Madhavarora26/land-blockchain-registry.git">📂 Repo</a>
     </td>
   </tr>
   <tr>
