@@ -61,12 +61,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4>📬 Notification Service <i>(in progress)</i></h4>
+      <h4>📬 Notification Service</h4>
       Scalable order-status notification system with idempotency guarantees and a Redis-backed BullMQ queue architecture.
       <br/><br/>
       <b>Stack:</b> Node.js, Express, MongoDB, Redis, BullMQ
       <br/>
-      <a href="#">📂 Repo</a>
+      <a href="https://github.com/Madhavarora26/notification-service.git">📂 Repo</a>
     </td>
     <td width="50%"></td>
   </tr>
