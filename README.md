@@ -66,7 +66,8 @@
       <br/><br/>
       <b>Stack:</b> Node.js, Express, MongoDB, Redis, BullMQ
       <br/>
-      <a href="https://github.com/Madhavarora26/notification-service.git">📂 Repo</a>
+      <a href="https://github.com/Madhavarora26/notification-service.git">📂 Backend Repo</a>
+       <a href="https://github.com/Madhavarora26/notification-service-Frontend.git">📂 Frontend Repo</a>
     </td>
     <td width="50%"></td>
   </tr>
